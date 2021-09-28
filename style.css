@@ -1,5 +1,21 @@
-body {
-  background-color: red;
-  color: blue;
-  font-size: 10px;
+.out {
+  border: 5px solid cyan;
+  height: 100px;
+  width: 20vw;
+  padding: 10px;
+  position: absolute;
+  left: 762.5px;
+  background-image: url(img/Keyboard\ Background.jpg);
+  background-position: center;
+  background-size: 20vw;
+  back
+}
+.in {
+  text-align: center;
+  height: 50px;
+  padding: 10px;
+  margin-bottom: 60px;
+}
+
+.parent {
 }
