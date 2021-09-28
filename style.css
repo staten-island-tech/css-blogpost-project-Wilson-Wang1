@@ -1,0 +1,12 @@
+.out {
+  border: 5px solid cyan;
+  height: 100px;
+  width: 100vw;
+  padding: 10px;
+}
+.in {
+  text-align: center;
+  border: 3px solid turquoise;
+  height: 50px;
+  padding: 10px;
+}
