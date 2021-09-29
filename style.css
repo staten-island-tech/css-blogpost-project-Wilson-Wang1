@@ -1,11 +1,40 @@
-.out {
-  border: 5px solid cyan;
-  height: 100px;
-  width: 100vw;
-  padding: 10px;
+body {
+  background-color: rgb(0, 255, 213);
 }
 .in {
+  border: 5px solid rgb(255, 17, 0);
+  height: 10vw;
+  width: 20vw;
+  position: absolute;
+  left: 762.5px;
+  background-image: url(/img/iqunix.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 10px;
   text-align: center;
   height: 50px;
-  padding: 10px;
+  padding: 50px;
+}
+span {
+  color: brown;
+  font-family: "Ephesis", cursive;
+  font-size: 50px;
+}
+.parent {
+  border: 5px solid red;
+  height: 500px;
+  width: 500px;
+  bottom: 40%;
+  position: absolute;
+}
+.parent2 {
+}
+.mechk {
+  border: 3px solid red;
+  margin-top: 0px;
+}
+.membrane {
+}
+.custom {
 }
