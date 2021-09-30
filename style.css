@@ -18,13 +18,13 @@ span {
   font-family: "Ephesis", cursive;
   font-size: 50px;
 }
-#keyboard {
-}
 .parent {
   border: 3px solid black;
   height: 500px;
   width: 500px;
   bottom: 20%;
+}
+.parent1 {
   position: absolute;
   left: 100px;
   background size: contain: ;
@@ -34,10 +34,6 @@ span {
   background-repeat: no-repeat;
 }
 .parent2 {
-  border: 3px solid black;
-  height: 500px;
-  width: 500px;
-  bottom: 20%;
   position: absolute;
   left: 700px;
   background size: contain: ;
@@ -47,10 +43,6 @@ span {
   background-repeat: no-repeat;
 }
 .parent3 {
-  border: 3px solid black;
-  height: 500px;
-  width: 500px;
-  bottom: 20%;
   position: absolute;
   left: 1300px;
   background size: contain: ;
